@@ -1,0 +1,47 @@
+[
+    {
+    "_id": "5d318e1a8541744830bef139",
+    "name": "Nokia phone",
+    "description": "This is Nokia phone",
+    "brand": "nokia",
+    "imageUrl": "https://drop.ndtv.com/TECH/product_database/images/2152017124957PM_635_nokia_3310.jpeg?downsize=*:420&output-quality=80",
+    "price": "100",
+    "category": "smartphones",
+    "createdAt": "2019-07-19T09:32:10.535Z",
+    "updatedAt": "2019-07-19T09:32:10.535Z",
+    "image": "http://localhost:3077/images/5d318e1a8541744830bef139.PNG"
+  },
+  {
+    "name": "Creamy KitKat",
+    "description": "Mmmmm. Creamy!",
+    "brand": "KITKAT",
+    "price": "4",
+    "category": "Food",
+    "_id": "59dtt2c8kikf0dkc",
+    "createdAt": "2020-12-11T15:18:19.307Z",
+    "updatedAt": "2020-12-11T15:18:19.307Z",
+    "image": "http://localhost:3077/images/59dtt2c8kikf0dkc.gif"
+  },
+  {
+    "name": "Stefano",
+    "description": "sadsdad",
+    "brand": "SEGA",
+    "price": "3",
+    "category": "Sci-Fi",
+    "_id": "59dtt520kikh4ax9",
+    "createdAt": "2020-12-11T16:17:21.740Z",
+    "updatedAt": "2020-12-11T16:17:21.740Z",
+    "image": "http://localhost:3077/images/59dtt520kikh4ax9.gif"
+  },
+  {
+    "name": "2077 Hagrid",
+    "description": "Even in the future, Hagrid is still an icon.",
+    "brand": "CD Projekt Red",
+    "price": "36",
+    "category": "Horror",
+    "_id": "59dtt39okioq41sz",
+    "createdAt": "2020-12-14T15:40:11.170Z",
+    "updatedAt": "2020-12-14T15:40:11.170Z",
+    "image": "http://localhost:3077/images/59dtt39okioq41sz.jpg"
+  }
+]
